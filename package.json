@@ -1,0 +1,14 @@
+{
+  "name": "react-native-printer-auto",
+  "version": "1.0.0",
+  "description": "自动收银打印",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "小票打印"
+  ],
+  "author": "limingguang",
+  "license": "ISC"
+}
